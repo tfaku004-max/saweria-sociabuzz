@@ -8,7 +8,7 @@ app.use(bodyParser.json());
 /* ==========================
    ENVIRONMENT VARIABLES
 ========================== */
-const SECRET_KEY = process.env.SECRET_KEY || "testservertest666";
+const SECRET_KEY = process.env.SECRET_KEY || "Rave90s";
 const ROBLOX_API = process.env.ROBLOX_API || "";
 const PORT = process.env.PORT || 3000;
 
